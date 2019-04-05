@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LayoutExample</string>
+    <string name="text_name">Name</string>
+    <string name="description_text">Long Text
+        \n\nFugiat ullam porro ipsa totam doloremque excepturi veniam. Sit et facere voluptates
+        \n\naut nesciunt nihil eius sunt. Quidem fugit iusto reprehenderit excepturi. Adipisci et tempora in sit.
+        \n\nExercitationem rerum cum facere explicabo. Nihil aperiam qui quam maxime laudantium. Ratione omnis minus
+        \n\ndoloremque veniam velit consequuntur velit. Quibusdam numquam dolores eius iste culpa. Laborum non ut tempora
+        \n\nrerum ut. Id quia odio iusto aut aut omnis deserunt aut. Quae totam vel magnam culpa possimus voluptatem nihil.
+        \n\nSint a pariatur qui. Necessitatibus ducimus architecto eaque. Explicabo at doloremque animi ex eum facere.
+        \n\nMollitia optio maxime adipisci. Officiis pariatur et odit error unde ut. Molestiae ducimus cum cupiditate
+        \n\naspernatur. Aut esse est quis quis sit enim nostrum. Sit hic iure tempore qui repellat consectetur vitae animi.
+        \n\nQuis est voluptas harum delectus consequatur corporis non. Hic expedita est dolor ipsa totam facere voluptatem.
+        \n\nQui dicta quae possimus animi. Dolore aut ullam et id ratione modi. Aut recusandae consequatur autem in animi
+        \n\nvoluptas tempore molestiae. Consequatur ratione in quia exercitationem cupiditate consequatur itaque at.
+    </string>
+    <string name="hint_edittext">Ingrese un nombre</string>
+    <string name="name_button">CAMBIAR</string>
+    <string name="name_button_text">Star icon</string>
+    <string name="img_icon">Img Icon</string>
+</resources>
